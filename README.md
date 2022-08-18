@@ -1,20 +1,19 @@
 # Hello-Microverse
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# This project is intended to teach how to set up linter for a Github repository.
 
 > Description the project.
+ This project is fictious, i.e., it is naive as it does not contain actual codes. this project is only intended to to teach how to set up linter for a GitHub repository. 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Simple index.html
+- Simple CSS file
+- Technologies used are: VS code for writing html and CSS code, Github, etc
 
 ## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
@@ -43,7 +42,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/amare1990)
+- GitHub: [https://github.com/amare1990]
 
 
 
